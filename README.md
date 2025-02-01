@@ -1,2 +1,2 @@
-# reactor-with-r2dbc
-Reactive optimistic locking with webflux and r2dbc
+# food-ordering
+Demo event-sourcing application using Axon framework and Spring boot
