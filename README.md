@@ -1,2 +1,2 @@
 # food-ordering
-Demo event-sourcing application using Axon framework and Spring boot
+Demo event-sourcing application using Axon Framework and Spring Boot
